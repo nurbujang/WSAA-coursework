@@ -1,3 +1,9 @@
+# cso.ie > datasets > data.cso.ie - CSO's PxStat Open data Statistical Database
+# pick one > -API Data Query > Restful Api > Copy url (ends with en)
+# https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP004/JSON-stat/2.0/en
+
+
+
 # as rough and ready module for accessing CSO data that is in the pxstat format
 # Work needs to be done to this to allow it to read data sets of N dimensions
 # Author: Andrew Beatty
