@@ -5,14 +5,11 @@ Author: Nur Bujang
 
 Write a program that retrieves the dataset for the "exchequer account (historical series)" from the CSO, 
 and stores it into a file called "cso.json".
-<<<<<<< HEAD
 
 https://www.cso.ie/en/index.html
 
 Link to a CSO dataset that will help you with the assignment:
 https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FIQ02/JSON-stat/2.0/en
-=======
->>>>>>> 27d5dc83de9836226f51ff6cb7855f6c119f80ae
 
     Upload this program to the same repository you used for the XML assignment
     Save this assignment as "assignment03-cso.py"

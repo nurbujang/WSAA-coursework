@@ -20,7 +20,7 @@ Copy a link to the directory/repo to here (please only put a link in here, other
 
 '''
 
-# Current temperature
+# Question 1: Current temperature
 # https://api.open-meteo.com/v1/forecast?latitude=53.82&longitude=-9.5&current=temperature_2m
 # Beatty (2024)
 
@@ -41,7 +41,7 @@ temp2m = current["temperature_2m"]
 
 print(temp2m)
 
-# Current wind direction (10m)
+# Question 2: Current wind direction (10m)
 # https://api.open-meteo.com/v1/forecast?latitude=53.82&longitude=-9.5&current=wind_direction_10m
 
 url = "https://api.open-meteo.com/v1/forecast?latitude=53.82&longitude=-9.5&current=wind_direction_10m"
@@ -51,11 +51,7 @@ data=response.json()
 response = requests.get(url)
 data=response.json()
 
-<<<<<<< HEAD
 with open("currentwinddir10m.json", "w") as fp: # with open, "w" is write mode (note.nkmk.me, 2023)
-=======
-with open("currentwinddir10m).json", "w") as fp: # with open, "w" is write mode (note.nkmk.me, 2023)
->>>>>>> 27d5dc83de9836226f51ff6cb7855f6c119f80ae
    json.dump(data, fp)
 
 # get object "current" and "temperature_2m"
