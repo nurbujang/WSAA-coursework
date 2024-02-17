@@ -51,7 +51,11 @@ data=response.json()
 response = requests.get(url)
 data=response.json()
 
+<<<<<<< HEAD
 with open("currentwinddir10m.json", "w") as fp: # with open, "w" is write mode (note.nkmk.me, 2023)
+=======
+with open("currentwinddir10m).json", "w") as fp: # with open, "w" is write mode (note.nkmk.me, 2023)
+>>>>>>> 27d5dc83de9836226f51ff6cb7855f6c119f80ae
    json.dump(data, fp)
 
 # get object "current" and "temperature_2m"
