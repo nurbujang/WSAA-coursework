@@ -1,9 +1,15 @@
 '''
-Assignment for Web Services and Applications (Spring 2024)
+Assignment 3 for Web Services and Applications (Spring 2024)
 assignment03-cso.py
 Author: Nur Bujang
 
-Write a program that retrieves the dataset for the "exchequer account (historical series)" from the CSO, and stores it into a file called "cso.json".
+Write a program that retrieves the dataset for the "exchequer account (historical series)" from the CSO, 
+and stores it into a file called "cso.json".
+
+https://www.cso.ie/en/index.html
+
+Link to a CSO dataset that will help you with the assignment:
+https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FIQ02/JSON-stat/2.0/en
 
     Upload this program to the same repository you used for the XML assignment
     Save this assignment as "assignment03-cso.py"
@@ -14,7 +20,6 @@ Write a program that retrieves the dataset for the "exchequer account (historica
     Yes it is difficult to find, that is part of the task, actually the easiest way to find it is search for it.
 
 Save your program in the repository you used for the first assignment (I will be correcting all these at the end of the semester)
-
 You do not need to over comment your code.
 
 '''
