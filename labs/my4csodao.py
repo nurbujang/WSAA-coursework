@@ -183,7 +183,195 @@ import json
 # Percentage change since previous census
     
 #--------------------------------------------------------------
+# So that's the first dimension. 
+# Now I need to do the same for the 2nd dimension. I'm going to do this four times. 
+
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlEnd = "/JSON-stat/2.0/en" # delete FP001
+
+# def getAllAsFile(dataset): 
+#     with open("my4cso.json", "wt") as fp:
+#         print(json.dumps(getAll(dataset)), file=fp)
+
+# def getAll(dataset): 
+#     url=urlBeginning + dataset + urlEnd
+#     response = requests.get(url)
+#     return response.json()
+
+# def getFormattedAsFile(dataset): # to make it quicker and easier, bc there's a lot of data
+#     pass
+
+# def getFormatted(dataset):
+#     data = getAll(dataset)
+#     ids = data["id"] # get all the ids from my4cso.json
+#     values = data["value"]# get values
+#     dimensions = data ["dimension"] #get dimensions
+#     sizes = data ["size"]
+
+# # do this four times. 
+#     for dim0 in range(0, sizes[0]): # element 0 is 4
+#         currentId = ids[0] # from the dimension > statistic > category> get all 4 index and their label
+#         index = dimensions[currentId]["category"]["index"][dim0]
+#         label = dimensions[currentId]["category"]["label"][index]
+#         print(label) # test
+         
+#         for dim1 in range(0, sizes[1]): # element 1
+#             currentId = ids[1] # tlist(A1), category, index (only 1 dimension) and its label,
+#             index = dimensions[currentId]["category"]["index"][dim1]
+#             label = dimensions[currentId]["category"]["label"][index]
+#             print("\t",label) # test
+            
+#             for dim2 in range(0, sizes[2]): # element 2
+#                 currentId = ids[2] # C02199v02655, category, index (has 3 dimensions(both sexes, male, female)) and label
+#                 index = dimensions[currentId]["category"]["index"][dim2]
+#                 label = dimensions[currentId]["category"]["label"][index]
+#                 print("\t\t",label) # test
+#                 for dim3 in range(0, sizes[3]): # element 3
+#                     currentId = ids[3] # 
+#                     index = dimensions[currentId]["category"]["index"][dim3]
+#                     label = dimensions[currentId]["category"]["label"][index]
+#                     print("\t\t\t",label) # test
+
+# if __name__ == "__main__":
+#     #getAllAsFile("FP001")
+#     getFormatted("FP001")
+
+# # output: 
+# both sexes, male, female in each county
     
+#----------------------------------------------------------
+# now we need to count the values as we go
+
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlEnd = "/JSON-stat/2.0/en" # delete FP001
+
+# def getAllAsFile(dataset): 
+#     with open("my4cso.json", "wt") as fp:
+#         print(json.dumps(getAll(dataset)), file=fp)
+
+# def getAll(dataset): 
+#     url=urlBeginning + dataset + urlEnd
+#     response = requests.get(url)
+#     return response.json()
+
+# def getFormattedAsFile(dataset): # to make it quicker and easier, bc there's a lot of data
+#     pass
+
+# def getFormatted(dataset):
+#     data = getAll(dataset)
+#     ids = data["id"] # get all the ids from my4cso.json
+#     values = data["value"]# get values
+#     dimensions = data ["dimension"] #get dimensions
+#     sizes = data ["size"]
+#     valuecount = 0
+
+# # do this four times. 
+#     for dim0 in range(0, sizes[0]): # element 0 is 4
+#         currentId = ids[0] # from the dimension > statistic > category> get all 4 index and their label
+#         index = dimensions[currentId]["category"]["index"][dim0]
+#         label = dimensions[currentId]["category"]["label"][index]
+#         print(label) # test
+         
+#         for dim1 in range(0, sizes[1]): # element 1
+#             currentId = ids[1] # tlist(A1), category, index (only 1 dimension) and its label,
+#             index = dimensions[currentId]["category"]["index"][dim1]
+#             label = dimensions[currentId]["category"]["label"][index]
+#             print("\t",label) # test
+            
+#             for dim2 in range(0, sizes[2]): # element 2
+#                 currentId = ids[2] # C02199v02655, category, index (has 3 dimensions(both sexes, male, female)) and label
+#                 index = dimensions[currentId]["category"]["index"][dim2]
+#                 label = dimensions[currentId]["category"]["label"][index]
+#                 print("\t\t",label) # test
+#                 for dim3 in range(0, sizes[3]): # element 3
+#                     currentId = ids[3] # 
+#                     index = dimensions[currentId]["category"]["index"][dim3]
+#                     label = dimensions[currentId]["category"]["label"][index]
+#                     print("\t\t\t",label, " ", values[valuecount]) # test
+#                     valuecount += 1
+
+# if __name__ == "__main__":
+#     #getAllAsFile("FP001")
+#     getFormatted("FP001")
+
+# output: for both sexes, male and female, county and count for each county
+    
+    #----------------------------------------------------------
+# so that's it printed out in a nice way. 
+# I would like to put this into some kind of nice dict
+# so I could save this out and then I could analyse it.
+
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlEnd = "/JSON-stat/2.0/en" # delete FP001
+
+# def getAllAsFile(dataset): 
+#     with open("my4cso.json", "wt") as fp:
+#         print(json.dumps(getAll(dataset)), file=fp)
+
+# def getAll(dataset): 
+#     url=urlBeginning + dataset + urlEnd
+#     response = requests.get(url)
+#     return response.json()
+
+# def getFormattedAsFile(dataset): # to make it quicker and easier, bc there's a lot of data
+#     pass
+
+# def getFormatted(dataset):
+#     data = getAll(dataset)
+#     ids = data["id"] # get all the ids from my4cso.json
+#     values = data["value"]# get values
+#     dimensions = data ["dimension"] #get dimensions
+#     sizes = data ["size"]
+#     valuecount = 0
+#     result = {} # empty dictionary object
+#     currentDict = result
+
+# # do this four times. 
+#     for dim0 in range(0, sizes[0]): # element 0 is 4
+#         currentId = ids[0] # from the dimension > statistic > category> get all 4 index and their label
+#         index = dimensions[currentId]["category"]["index"][dim0]
+#         label = dimensions[currentId]["category"]["label"][index]
+#         result[label]={} # instead of printing put the label, equal to printing out a new object
+#         currentDict[label]={} 
+#         currentDict = currentDict[label]
+#         #So what I'm doing is always shifting up the current dictionary to be.
+#         #That should be shifting it up to be its sub object each time.
+#         # The reason I'm doing it this way is so that I can later on make this generic for any amount of dimensions.
+#         for dim1 in range(0, sizes[1]): # element 1
+#             currentId = ids[1] # tlist(A1), category, index (only 1 dimension) and its label,
+#             index = dimensions[currentId]["category"]["index"][dim1]
+#             label = dimensions[currentId]["category"]["label"][index]
+#             currentDict[label]={}
+#             currentDict = currentDict[label]
+#             for dim2 in range(0, sizes[2]): # element 2
+#                 currentId = ids[2] # C02199v02655, category, index (has 3 dimensions(both sexes, male, female)) and label
+#                 index = dimensions[currentId]["category"]["index"][dim2]
+#                 label = dimensions[currentId]["category"]["label"][index]
+#                 currentDict[label]={}
+#                 currentDict = currentDict[label]
+#                 for dim3 in range(0, sizes[3]): # element 3
+#                     currentId = ids[3] # 
+#                     index = dimensions[currentId]["category"]["index"][dim3]
+#                     label = dimensions[currentId]["category"]["label"][index]
+#                     #print("\t\t\t",label, " ", values[valuecount]) # test
+#                     currentDict[label]=values[valuecount]
+#                     valuecount += 1
+
+#         # when done, put into a file, but test first
+#         print(result)
+#         return result
+
+
+# if __name__ == "__main__":
+#     #getAllAsFile("FP001")
+#     getFormatted("FP001")
+
+# output: 
+    
+#============================================
+# now put into a file
+# so I could save this out and then I could analyse it.
+
 urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
 urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
@@ -197,7 +385,8 @@ def getAll(dataset):
     return response.json()
 
 def getFormattedAsFile(dataset): # to make it quicker and easier, bc there's a lot of data
-    pass
+    with open("my4cso-formatted.json", "wt") as fp:
+        print(json.dumps(getFormatted(dataset)), file=fp)
 
 def getFormatted(dataset):
     data = getAll(dataset)
@@ -205,19 +394,50 @@ def getFormatted(dataset):
     values = data["value"]# get values
     dimensions = data ["dimension"] #get dimensions
     sizes = data ["size"]
-
-    for dim1 in range(0, sizes[0]): # element 0 is 4
+    valuecount = 0
+    result = {} # empty dictionary object
+    
+# do this four times. 
+    for dim0 in range(0, sizes[0]): # element 0 is 4
         currentId = ids[0] # from the dimension > statistic > category> get all 4 index and their label
-        index = dimensions[currentId]["category"]["index"][dim1]
-        label = dimensions[currentId]["category"]["label"][index]
-        print(label) # test
+        index = dimensions[currentId]["category"]["index"][dim0]
+        label0 = dimensions[currentId]["category"]["label"][index]
+        result[label0]={} # instead of printing put the label, equal to printing out a new object
+        #So what I'm doing is always shifting up the current dictionary to be.
+        #That should be shifting it up to be its sub object each time.
+        # The reason I'm doing it this way is so that I can later on make this generic for any amount of dimensions.
+        print(label0)
+        for dim1 in range(0, sizes[1]): # element 1
+            currentId = ids[1] # tlist(A1), category, index (only 1 dimension) and its label,
+            index = dimensions[currentId]["category"]["index"][dim1]
+            label1 = dimensions[currentId]["category"]["label"][index]
+            #print("\t",label1)
+            result[label0][label1]={} # equal to new object
+            for dim2 in range(0, sizes[2]): # element 2
+                currentId = ids[2] # C02199v02655, category, index (has 3 dimensions(both sexes, male, female)) and label
+                index = dimensions[currentId]["category"]["index"][dim2]
+                label2 = dimensions[currentId]["category"]["label"][index]
+                result[label0][label1][label2]={} # equal to new object
+                #print("\t\t",label2)
+                for dim3 in range(0, sizes[3]): # element 3
+                    currentId = ids[3] # 
+                    index = dimensions[currentId]["category"]["index"][dim3]
+                    label3 = dimensions[currentId]["category"]["label"][index]
+                    #print("\t\t\t",label, " ", values[valuecount]) # test
+                    result[label0][label1][label2][label3]=values[valuecount] # equal to new object
+                    valuecount += 1
+
+        # when done, put into a file, but test first
+        
+    return result # this tab indentation is important or else it will cut off to 2016 only
+
 
 if __name__ == "__main__":
     #getAllAsFile("FP001")
-    getFormatted("FP001")
+    getFormattedAsFile("FP001")
 
 # output: 
-# 
+
 
 #######################################################################################
 
