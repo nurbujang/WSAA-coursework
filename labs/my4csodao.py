@@ -37,10 +37,10 @@ import json
 #     with open("my4cso.json", "wt") as fp:
 #         print(json.dumps(getAll()), file=fp)
 
-#--------------------------------
+#--------------------------------# IN ASSIGNMENT 3
 # FP001 is a particular data set. It would be really cool if I could get that data set. 
 
-# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/" # note: leave the / at the end
 # urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 # def getAll(dataset): # pass in the dataset here
@@ -55,7 +55,7 @@ import json
 #---------------------------------------------------------
 # we will use this a lot
 
-# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 # urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 # def getAllAsFile(dataset): 
@@ -75,7 +75,7 @@ import json
 #In one sense, I feel I'm going to be reusing the code to basically make it
 # in my way, passed, to make something that looks easy to iterate like result.json
 
-# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 # urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 # def getAllAsFile(dataset): 
@@ -110,7 +110,7 @@ import json
 # now what I need to do is I need to go through 4 different 4 loops to unpack all the data.
     # GO TO SIZE IN m4cso.json, size has 4 dimensions [4, 1, 3, 27]
 
-# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 # urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 # def getAllAsFile(dataset): 
@@ -144,7 +144,7 @@ import json
 
 #--------------------------------------------------------------------
 
-# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 # urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 # def getAllAsFile(dataset): 
@@ -186,7 +186,7 @@ import json
 # So that's the first dimension. 
 # Now I need to do the same for the 2nd dimension. I'm going to do this four times. 
 
-# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 # urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 # def getAllAsFile(dataset): 
@@ -242,7 +242,7 @@ import json
 #----------------------------------------------------------
 # now we need to count the values as we go
 
-# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 # urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 # def getAllAsFile(dataset): 
@@ -301,7 +301,7 @@ import json
 # I would like to put this into some kind of nice dict
 # so I could save this out and then I could analyse it.
 
-# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+# urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/"
 # urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 # def getAllAsFile(dataset): 
@@ -372,7 +372,7 @@ import json
 # now put into a file
 # so I could save this out and then I could analyse it.
 
-urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FP001/JSON-stat/2.0/en"
+urlBeginning = "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/" # note: leave the / at the end
 urlEnd = "/JSON-stat/2.0/en" # delete FP001
 
 def getAllAsFile(dataset): 
