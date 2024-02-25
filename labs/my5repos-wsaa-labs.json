@@ -1,0 +1,1394 @@
+[
+    {
+        "name": "BookDao.py",
+        "path": "labs/BookDao.py",
+        "sha": "99fc844c0a1644b5ab034189f032f2a86add45ad",
+        "size": 2178,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/BookDao.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/BookDao.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/99fc844c0a1644b5ab034189f032f2a86add45ad",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/BookDao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/BookDao.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/99fc844c0a1644b5ab034189f032f2a86add45ad",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/BookDao.py"
+        }
+    },
+    {
+        "name": "Lab02.3-trains.pdf",
+        "path": "labs/Lab02.3-trains.pdf",
+        "sha": "f46d2561e66c69926814264da9b52a0bbc3ac130",
+        "size": 224487,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab02.3-trains.pdf?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab02.3-trains.pdf",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f46d2561e66c69926814264da9b52a0bbc3ac130",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/Lab02.3-trains.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab02.3-trains.pdf?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f46d2561e66c69926814264da9b52a0bbc3ac130",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab02.3-trains.pdf"
+        }
+    },
+    {
+        "name": "Lab03.4 CURL.pdf",
+        "path": "labs/Lab03.4 CURL.pdf",
+        "sha": "c60752c15c80e7fca55e8ba3011246e07b60afc8",
+        "size": 150864,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab03.4%20CURL.pdf?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab03.4%20CURL.pdf",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c60752c15c80e7fca55e8ba3011246e07b60afc8",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/Lab03.4%20CURL.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab03.4%20CURL.pdf?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c60752c15c80e7fca55e8ba3011246e07b60afc8",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab03.4%20CURL.pdf"
+        }
+    },
+    {
+        "name": "Lab04.1 requests.pdf",
+        "path": "labs/Lab04.1 requests.pdf",
+        "sha": "00e50f78c857d113933076dbec93c61c0f809511",
+        "size": 159112,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab04.1%20requests.pdf?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab04.1%20requests.pdf",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/00e50f78c857d113933076dbec93c61c0f809511",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/Lab04.1%20requests.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab04.1%20requests.pdf?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/00e50f78c857d113933076dbec93c61c0f809511",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab04.1%20requests.pdf"
+        }
+    },
+    {
+        "name": "Lab05.2 API keys.pdf",
+        "path": "labs/Lab05.2 API keys.pdf",
+        "sha": "97529ee1568c5260b1c1cda6e699fec0b5dabebf",
+        "size": 204906,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab05.2%20API%20keys.pdf?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab05.2%20API%20keys.pdf",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/97529ee1568c5260b1c1cda6e699fec0b5dabebf",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/Lab05.2%20API%20keys.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab05.2%20API%20keys.pdf?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/97529ee1568c5260b1c1cda6e699fec0b5dabebf",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab05.2%20API%20keys.pdf"
+        }
+    },
+    {
+        "name": "Lab05.3 using the package.pdf",
+        "path": "labs/Lab05.3 using the package.pdf",
+        "sha": "894ab290f6ddcb840c99f5ffe48bb2f8e1a773d6",
+        "size": 239589,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab05.3%20using%20the%20package.pdf?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab05.3%20using%20the%20package.pdf",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/894ab290f6ddcb840c99f5ffe48bb2f8e1a773d6",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/Lab05.3%20using%20the%20package.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/Lab05.3%20using%20the%20package.pdf?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/894ab290f6ddcb840c99f5ffe48bb2f8e1a773d6",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/Lab05.3%20using%20the%20package.pdf"
+        }
+    },
+    {
+        "name": "WSAA2.1 XML,JSON and CSV_ed.pptx",
+        "path": "labs/WSAA2.1 XML,JSON and CSV_ed.pptx",
+        "sha": "afa609719bd598e87ca9390f43981adb9f5a6770",
+        "size": 4128719,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA2.1%20XML,JSON%20and%20CSV_ed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA2.1%20XML,JSON%20and%20CSV_ed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/afa609719bd598e87ca9390f43981adb9f5a6770",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA2.1%20XML%2CJSON%20and%20CSV_ed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA2.1%20XML,JSON%20and%20CSV_ed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/afa609719bd598e87ca9390f43981adb9f5a6770",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA2.1%20XML,JSON%20and%20CSV_ed.pptx"
+        }
+    },
+    {
+        "name": "WSAA2.2 XML_ed.pptx",
+        "path": "labs/WSAA2.2 XML_ed.pptx",
+        "sha": "582bbbf31c2a203b0ccfc6d9f4cdd9ef70e50079",
+        "size": 1167497,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA2.2%20XML_ed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA2.2%20XML_ed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/582bbbf31c2a203b0ccfc6d9f4cdd9ef70e50079",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA2.2%20XML_ed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA2.2%20XML_ed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/582bbbf31c2a203b0ccfc6d9f4cdd9ef70e50079",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA2.2%20XML_ed.pptx"
+        }
+    },
+    {
+        "name": "WSAA2.3 consuming xml_ed.pptx",
+        "path": "labs/WSAA2.3 consuming xml_ed.pptx",
+        "sha": "9b26e415d2bf313847a437b83b1036e6890fd337",
+        "size": 602973,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA2.3%20consuming%20xml_ed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA2.3%20consuming%20xml_ed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/9b26e415d2bf313847a437b83b1036e6890fd337",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA2.3%20consuming%20xml_ed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA2.3%20consuming%20xml_ed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/9b26e415d2bf313847a437b83b1036e6890fd337",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA2.3%20consuming%20xml_ed.pptx"
+        }
+    },
+    {
+        "name": "WSAA2.4 JSON slides_ed.pptx",
+        "path": "labs/WSAA2.4 JSON slides_ed.pptx",
+        "sha": "c47f06f55a6659136fcabb99571de1ad6a3cfa11",
+        "size": 535282,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA2.4%20JSON%20slides_ed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA2.4%20JSON%20slides_ed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c47f06f55a6659136fcabb99571de1ad6a3cfa11",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA2.4%20JSON%20slides_ed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA2.4%20JSON%20slides_ed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c47f06f55a6659136fcabb99571de1ad6a3cfa11",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA2.4%20JSON%20slides_ed.pptx"
+        }
+    },
+    {
+        "name": "WSAA3.1 Theory-HTTP and URLed.pptx",
+        "path": "labs/WSAA3.1 Theory-HTTP and URLed.pptx",
+        "sha": "7e61eaf3839b4b81f27abcaccdeb38771830b2e9",
+        "size": 593418,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA3.1%20Theory-HTTP%20and%20URLed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA3.1%20Theory-HTTP%20and%20URLed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/7e61eaf3839b4b81f27abcaccdeb38771830b2e9",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA3.1%20Theory-HTTP%20and%20URLed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA3.1%20Theory-HTTP%20and%20URLed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/7e61eaf3839b4b81f27abcaccdeb38771830b2e9",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA3.1%20Theory-HTTP%20and%20URLed.pptx"
+        }
+    },
+    {
+        "name": "WSAA3.2 Theory-HTTP methods and codesed.pptx",
+        "path": "labs/WSAA3.2 Theory-HTTP methods and codesed.pptx",
+        "sha": "dd5ae445dee2349f3cf0c311b815644647228964",
+        "size": 573264,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA3.2%20Theory-HTTP%20methods%20and%20codesed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA3.2%20Theory-HTTP%20methods%20and%20codesed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/dd5ae445dee2349f3cf0c311b815644647228964",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA3.2%20Theory-HTTP%20methods%20and%20codesed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA3.2%20Theory-HTTP%20methods%20and%20codesed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/dd5ae445dee2349f3cf0c311b815644647228964",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA3.2%20Theory-HTTP%20methods%20and%20codesed.pptx"
+        }
+    },
+    {
+        "name": "WSAA3.3 Rest slidesed.pptx",
+        "path": "labs/WSAA3.3 Rest slidesed.pptx",
+        "sha": "f9268f16b484ab555259c8267336a16174142632",
+        "size": 541849,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA3.3%20Rest%20slidesed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA3.3%20Rest%20slidesed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f9268f16b484ab555259c8267336a16174142632",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA3.3%20Rest%20slidesed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA3.3%20Rest%20slidesed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f9268f16b484ab555259c8267336a16174142632",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA3.3%20Rest%20slidesed.pptx"
+        }
+    },
+    {
+        "name": "WSAA3.4 Curled.pptx",
+        "path": "labs/WSAA3.4 Curled.pptx",
+        "sha": "8c026d455078e2ad982125abaa732a071b6f53a5",
+        "size": 525151,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA3.4%20Curled.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA3.4%20Curled.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/8c026d455078e2ad982125abaa732a071b6f53a5",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA3.4%20Curled.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA3.4%20Curled.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/8c026d455078e2ad982125abaa732a071b6f53a5",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA3.4%20Curled.pptx"
+        }
+    },
+    {
+        "name": "WSAA4.1 API consuming with python_ed.pptx",
+        "path": "labs/WSAA4.1 API consuming with python_ed.pptx",
+        "sha": "7f13ee1b6587fbb90d300b35ca52825ecae28bde",
+        "size": 1535900,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA4.1%20API%20consuming%20with%20python_ed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA4.1%20API%20consuming%20with%20python_ed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/7f13ee1b6587fbb90d300b35ca52825ecae28bde",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA4.1%20API%20consuming%20with%20python_ed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA4.1%20API%20consuming%20with%20python_ed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/7f13ee1b6587fbb90d300b35ca52825ecae28bde",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA4.1%20API%20consuming%20with%20python_ed.pptx"
+        }
+    },
+    {
+        "name": "WSAA4.2 APIs in the wild irish gov_ed.pptx",
+        "path": "labs/WSAA4.2 APIs in the wild irish gov_ed.pptx",
+        "sha": "6665a9c961aae417e320b4444eb1fac3c03165b0",
+        "size": 1019817,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA4.2%20APIs%20in%20the%20wild%20irish%20gov_ed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA4.2%20APIs%20in%20the%20wild%20irish%20gov_ed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/6665a9c961aae417e320b4444eb1fac3c03165b0",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA4.2%20APIs%20in%20the%20wild%20irish%20gov_ed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA4.2%20APIs%20in%20the%20wild%20irish%20gov_ed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/6665a9c961aae417e320b4444eb1fac3c03165b0",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA4.2%20APIs%20in%20the%20wild%20irish%20gov_ed.pptx"
+        }
+    },
+    {
+        "name": "WSAA4.3 APIs in the wild cso_ed.pptx",
+        "path": "labs/WSAA4.3 APIs in the wild cso_ed.pptx",
+        "sha": "46a48f0f5d8baf2afbc644a7091b56607967b9a5",
+        "size": 1030320,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA4.3%20APIs%20in%20the%20wild%20cso_ed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA4.3%20APIs%20in%20the%20wild%20cso_ed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/46a48f0f5d8baf2afbc644a7091b56607967b9a5",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA4.3%20APIs%20in%20the%20wild%20cso_ed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA4.3%20APIs%20in%20the%20wild%20cso_ed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/46a48f0f5d8baf2afbc644a7091b56607967b9a5",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA4.3%20APIs%20in%20the%20wild%20cso_ed.pptx"
+        }
+    },
+    {
+        "name": "WSAA5.1 Authenticationed.pptm",
+        "path": "labs/WSAA5.1 Authenticationed.pptm",
+        "sha": "cb7caf3207c748ba05901f2162f8bbafa103810f",
+        "size": 601383,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA5.1%20Authenticationed.pptm?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA5.1%20Authenticationed.pptm",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/cb7caf3207c748ba05901f2162f8bbafa103810f",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA5.1%20Authenticationed.pptm",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA5.1%20Authenticationed.pptm?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/cb7caf3207c748ba05901f2162f8bbafa103810f",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA5.1%20Authenticationed.pptm"
+        }
+    },
+    {
+        "name": "WSAA5.1 Authenticationed.pptx",
+        "path": "labs/WSAA5.1 Authenticationed.pptx",
+        "sha": "eb660e0c0518b18ad5511ae883b132c70bf09f05",
+        "size": 751628,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA5.1%20Authenticationed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA5.1%20Authenticationed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/eb660e0c0518b18ad5511ae883b132c70bf09f05",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA5.1%20Authenticationed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA5.1%20Authenticationed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/eb660e0c0518b18ad5511ae883b132c70bf09f05",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA5.1%20Authenticationed.pptx"
+        }
+    },
+    {
+        "name": "WSAA5.2 GitHub webserviceed.pptx",
+        "path": "labs/WSAA5.2 GitHub webserviceed.pptx",
+        "sha": "ea075afadac15d40ba87ecbbfe1fe44eee248f5a",
+        "size": 511900,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA5.2%20GitHub%20webserviceed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA5.2%20GitHub%20webserviceed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/ea075afadac15d40ba87ecbbfe1fe44eee248f5a",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA5.2%20GitHub%20webserviceed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA5.2%20GitHub%20webserviceed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/ea075afadac15d40ba87ecbbfe1fe44eee248f5a",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA5.2%20GitHub%20webserviceed.pptx"
+        }
+    },
+    {
+        "name": "WSAA5.3 using packagesed.pptx",
+        "path": "labs/WSAA5.3 using packagesed.pptx",
+        "sha": "72f33e10814b83f8259e532964855669b6aabd2f",
+        "size": 349004,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA5.3%20using%20packagesed.pptx?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA5.3%20using%20packagesed.pptx",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/72f33e10814b83f8259e532964855669b6aabd2f",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/WSAA5.3%20using%20packagesed.pptx",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/WSAA5.3%20using%20packagesed.pptx?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/72f33e10814b83f8259e532964855669b6aabd2f",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/WSAA5.3%20using%20packagesed.pptx"
+        }
+    },
+    {
+        "name": "a sample config for you to see format.py",
+        "path": "labs/a sample config for you to see format.py",
+        "sha": "041a3a74418e10e718357694b3e1636d331ce99b",
+        "size": 280,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/a%20sample%20config%20for%20you%20to%20see%20format.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/a%20sample%20config%20for%20you%20to%20see%20format.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/041a3a74418e10e718357694b3e1636d331ce99b",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/a%20sample%20config%20for%20you%20to%20see%20format.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/a%20sample%20config%20for%20you%20to%20see%20format.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/041a3a74418e10e718357694b3e1636d331ce99b",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/a%20sample%20config%20for%20you%20to%20see%20format.py"
+        }
+    },
+    {
+        "name": "bitcoindump.json",
+        "path": "labs/bitcoindump.json",
+        "sha": "7058f413b08ed2918ac4024f9315bd40c10c2663",
+        "size": 1007,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/bitcoindump.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/bitcoindump.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/7058f413b08ed2918ac4024f9315bd40c10c2663",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/bitcoindump.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/bitcoindump.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/7058f413b08ed2918ac4024f9315bd40c10c2663",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/bitcoindump.json"
+        }
+    },
+    {
+        "name": "book.json",
+        "path": "labs/book.json",
+        "sha": "b6cb301be6673f767bc7741e7636fed438002706",
+        "size": 522,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/book.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/book.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/b6cb301be6673f767bc7741e7636fed438002706",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/book.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/book.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/b6cb301be6673f767bc7741e7636fed438002706",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/book.json"
+        }
+    },
+    {
+        "name": "bookapidao.py",
+        "path": "labs/bookapidao.py",
+        "sha": "8142da58d1833b3e78aeffc22a25ba6dbb9e657e",
+        "size": 1291,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/bookapidao.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/bookapidao.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/8142da58d1833b3e78aeffc22a25ba6dbb9e657e",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/bookapidao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/bookapidao.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/8142da58d1833b3e78aeffc22a25ba6dbb9e657e",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/bookapidao.py"
+        }
+    },
+    {
+        "name": "config_old.py",
+        "path": "labs/config_old.py",
+        "sha": "6ff232c08c28e23e9cebf0f3d1ce2451560501ba",
+        "size": 171,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/config_old.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/config_old.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/6ff232c08c28e23e9cebf0f3d1ce2451560501ba",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/config_old.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/config_old.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/6ff232c08c28e23e9cebf0f3d1ce2451560501ba",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/config_old.py"
+        }
+    },
+    {
+        "name": "cso-formatted.json",
+        "path": "labs/cso-formatted.json",
+        "sha": "525591b5951a311bdde3be2a339e57d4a8840811",
+        "size": 13280,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/cso-formatted.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/cso-formatted.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/525591b5951a311bdde3be2a339e57d4a8840811",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/cso-formatted.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/cso-formatted.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/525591b5951a311bdde3be2a339e57d4a8840811",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/cso-formatted.json"
+        }
+    },
+    {
+        "name": "cso.json",
+        "path": "labs/cso.json",
+        "sha": "648efe3a3df24984d73d76a356203b613300aeb5",
+        "size": 13873,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/cso.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/cso.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/648efe3a3df24984d73d76a356203b613300aeb5",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/cso.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/cso.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/648efe3a3df24984d73d76a356203b613300aeb5",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/cso.json"
+        }
+    },
+    {
+        "name": "csodao.py",
+        "path": "labs/csodao.py",
+        "sha": "3e29c621549be3d0b4e4727a559ae486b5257ed9",
+        "size": 2345,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/csodao.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/csodao.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/3e29c621549be3d0b4e4727a559ae486b5257ed9",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/csodao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/csodao.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/3e29c621549be3d0b4e4727a559ae486b5257ed9",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/csodao.py"
+        }
+    },
+    {
+        "name": "document.pdf",
+        "path": "labs/document.pdf",
+        "sha": "17f56833d60484bae5ce987858e5061e646217ac",
+        "size": 1034683,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/document.pdf?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/document.pdf",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/17f56833d60484bae5ce987858e5061e646217ac",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/document.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/document.pdf?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/17f56833d60484bae5ce987858e5061e646217ac",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/document.pdf"
+        }
+    },
+    {
+        "name": "employees.xml",
+        "path": "labs/employees.xml",
+        "sha": "15957f7b826758b85c9c5ae64e585894c63dc43f",
+        "size": 372,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/employees.xml?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/employees.xml",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/15957f7b826758b85c9c5ae64e585894c63dc43f",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/employees.xml",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/employees.xml?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/15957f7b826758b85c9c5ae64e585894c63dc43f",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/employees.xml"
+        }
+    },
+    {
+        "name": "getprivaterepository.py",
+        "path": "labs/getprivaterepository.py",
+        "sha": "aec56473419b4a008b3b02b82a3404c1e01ccb2e",
+        "size": 885,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/getprivaterepository.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/getprivaterepository.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/aec56473419b4a008b3b02b82a3404c1e01ccb2e",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/getprivaterepository.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/getprivaterepository.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/aec56473419b4a008b3b02b82a3404c1e01ccb2e",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/getprivaterepository.py"
+        }
+    },
+    {
+        "name": "getrepoinformation.py",
+        "path": "labs/getrepoinformation.py",
+        "sha": "c8e4c1df0797c9fae8a2718c44c20594837a20ec",
+        "size": 521,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/getrepoinformation.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/getrepoinformation.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c8e4c1df0797c9fae8a2718c44c20594837a20ec",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/getrepoinformation.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/getrepoinformation.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c8e4c1df0797c9fae8a2718c44c20594837a20ec",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/getrepoinformation.py"
+        }
+    },
+    {
+        "name": "htmltopdfdemo.py",
+        "path": "labs/htmltopdfdemo.py",
+        "sha": "51f1db0e86873998e9871cca87ee7fae75417dba",
+        "size": 631,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/htmltopdfdemo.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/htmltopdfdemo.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/51f1db0e86873998e9871cca87ee7fae75417dba",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/htmltopdfdemo.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/htmltopdfdemo.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/51f1db0e86873998e9871cca87ee7fae75417dba",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/htmltopdfdemo.py"
+        }
+    },
+    {
+        "name": "initdb.sql",
+        "path": "labs/initdb.sql",
+        "sha": "13e4c599c06c0f47ca8c786de312b6186a48b2bd",
+        "size": 156,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/initdb.sql?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/initdb.sql",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/13e4c599c06c0f47ca8c786de312b6186a48b2bd",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/initdb.sql",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/initdb.sql?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/13e4c599c06c0f47ca8c786de312b6186a48b2bd",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/initdb.sql"
+        }
+    },
+    {
+        "name": "intro.ipynb",
+        "path": "labs/intro.ipynb",
+        "sha": "38c677a5f9afd0d2ea2f4a15186e28ce628d303b",
+        "size": 984,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/intro.ipynb?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/intro.ipynb",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/38c677a5f9afd0d2ea2f4a15186e28ce628d303b",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/intro.ipynb",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/intro.ipynb?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/38c677a5f9afd0d2ea2f4a15186e28ce628d303b",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/intro.ipynb"
+        }
+    },
+    {
+        "name": "lab2trainxml.xml",
+        "path": "labs/lab2trainxml.xml",
+        "sha": "98b74374a36ff7cef30e0db8f3f97e30d055ed07",
+        "size": 34062,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/lab2trainxml.xml?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/lab2trainxml.xml",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/98b74374a36ff7cef30e0db8f3f97e30d055ed07",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/lab2trainxml.xml",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/lab2trainxml.xml?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/98b74374a36ff7cef30e0db8f3f97e30d055ed07",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/lab2trainxml.xml"
+        }
+    },
+    {
+        "name": "messing.py",
+        "path": "labs/messing.py",
+        "sha": "103e9573e7ba3f8d693aa548d3887c1753fd1dad",
+        "size": 59,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/messing.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/messing.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/103e9573e7ba3f8d693aa548d3887c1753fd1dad",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/messing.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/messing.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/103e9573e7ba3f8d693aa548d3887c1753fd1dad",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/messing.py"
+        }
+    },
+    {
+        "name": "modules.py",
+        "path": "labs/modules.py",
+        "sha": "250e4def1ac956f0093c95195e87c54b5777b022",
+        "size": 275,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/modules.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/modules.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/250e4def1ac956f0093c95195e87c54b5777b022",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/modules.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/modules.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/250e4def1ac956f0093c95195e87c54b5777b022",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/modules.py"
+        }
+    },
+    {
+        "name": "my2labtrains.py",
+        "path": "labs/my2labtrains.py",
+        "sha": "748638ac27a83ee97b4ec3143a579c0e09cfffaa",
+        "size": 1725,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2labtrains.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2labtrains.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/748638ac27a83ee97b4ec3143a579c0e09cfffaa",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my2labtrains.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2labtrains.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/748638ac27a83ee97b4ec3143a579c0e09cfffaa",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2labtrains.py"
+        }
+    },
+    {
+        "name": "my2labtrainsdcode.py",
+        "path": "labs/my2labtrainsdcode.py",
+        "sha": "8757349fb1fb4d0eba4c2130b82906200cd5ae54",
+        "size": 1810,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2labtrainsdcode.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2labtrainsdcode.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/8757349fb1fb4d0eba4c2130b82906200cd5ae54",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my2labtrainsdcode.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2labtrainsdcode.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/8757349fb1fb4d0eba4c2130b82906200cd5ae54",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2labtrainsdcode.py"
+        }
+    },
+    {
+        "name": "my2readfromcloud.py",
+        "path": "labs/my2readfromcloud.py",
+        "sha": "5a31dbf0b74a4fbd45833a87d14f1505f30067b7",
+        "size": 449,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2readfromcloud.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2readfromcloud.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/5a31dbf0b74a4fbd45833a87d14f1505f30067b7",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my2readfromcloud.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2readfromcloud.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/5a31dbf0b74a4fbd45833a87d14f1505f30067b7",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2readfromcloud.py"
+        }
+    },
+    {
+        "name": "my2readjson.py",
+        "path": "labs/my2readjson.py",
+        "sha": "6830276fce0189eab1faf8cb043d160c23cf5dab",
+        "size": 223,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2readjson.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2readjson.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/6830276fce0189eab1faf8cb043d160c23cf5dab",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my2readjson.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2readjson.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/6830276fce0189eab1faf8cb043d160c23cf5dab",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2readjson.py"
+        }
+    },
+    {
+        "name": "my2traintimes.py",
+        "path": "labs/my2traintimes.py",
+        "sha": "eb448f9f75affc05aea6597544059895e64fb958",
+        "size": 1860,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2traintimes.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2traintimes.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/eb448f9f75affc05aea6597544059895e64fb958",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my2traintimes.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2traintimes.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/eb448f9f75affc05aea6597544059895e64fb958",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2traintimes.py"
+        }
+    },
+    {
+        "name": "my2xmlfromfile.py",
+        "path": "labs/my2xmlfromfile.py",
+        "sha": "83714e2fefd7ba02c3eb8850ab872b041be00dad",
+        "size": 569,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2xmlfromfile.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2xmlfromfile.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/83714e2fefd7ba02c3eb8850ab872b041be00dad",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my2xmlfromfile.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my2xmlfromfile.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/83714e2fefd7ba02c3eb8850ab872b041be00dad",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my2xmlfromfile.py"
+        }
+    },
+    {
+        "name": "my4analysebooks.py",
+        "path": "labs/my4analysebooks.py",
+        "sha": "a7c5235e85a4dbfa37687bfd6b6a49831019f4c0",
+        "size": 485,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4analysebooks.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4analysebooks.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/a7c5235e85a4dbfa37687bfd6b6a49831019f4c0",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4analysebooks.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4analysebooks.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/a7c5235e85a4dbfa37687bfd6b6a49831019f4c0",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4analysebooks.py"
+        }
+    },
+    {
+        "name": "my4analysehair.py",
+        "path": "labs/my4analysehair.py",
+        "sha": "bb4620397044be6d94d69dccdf34b0809bf71b38",
+        "size": 3080,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4analysehair.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4analysehair.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/bb4620397044be6d94d69dccdf34b0809bf71b38",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4analysehair.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4analysehair.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/bb4620397044be6d94d69dccdf34b0809bf71b38",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4analysehair.py"
+        }
+    },
+    {
+        "name": "my4bookapidao.py",
+        "path": "labs/my4bookapidao.py",
+        "sha": "958ebcb6ccfd7fe20fca39adf209350f7cc6c323",
+        "size": 4040,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4bookapidao.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4bookapidao.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/958ebcb6ccfd7fe20fca39adf209350f7cc6c323",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4bookapidao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4bookapidao.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/958ebcb6ccfd7fe20fca39adf209350f7cc6c323",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4bookapidao.py"
+        }
+    },
+    {
+        "name": "my4cso-formatted.json",
+        "path": "labs/my4cso-formatted.json",
+        "sha": "525591b5951a311bdde3be2a339e57d4a8840811",
+        "size": 13280,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4cso-formatted.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4cso-formatted.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/525591b5951a311bdde3be2a339e57d4a8840811",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4cso-formatted.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4cso-formatted.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/525591b5951a311bdde3be2a339e57d4a8840811",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4cso-formatted.json"
+        }
+    },
+    {
+        "name": "my4cso.json",
+        "path": "labs/my4cso.json",
+        "sha": "67b67ec380f22cdcb5235a7497dc1d504e41abb8",
+        "size": 13873,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4cso.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4cso.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/67b67ec380f22cdcb5235a7497dc1d504e41abb8",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4cso.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4cso.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/67b67ec380f22cdcb5235a7497dc1d504e41abb8",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4cso.json"
+        }
+    },
+    {
+        "name": "my4csodao.py",
+        "path": "labs/my4csodao.py",
+        "sha": "80c97f6105728a93bba4d3228850a460dc0739ed",
+        "size": 20248,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4csodao.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4csodao.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/80c97f6105728a93bba4d3228850a460dc0739ed",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4csodao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4csodao.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/80c97f6105728a93bba4d3228850a460dc0739ed",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4csodao.py"
+        }
+    },
+    {
+        "name": "my4messing.py",
+        "path": "labs/my4messing.py",
+        "sha": "b44253c5c766c6bf2e4843755e159994ef6aef14",
+        "size": 105,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4messing.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4messing.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/b44253c5c766c6bf2e4843755e159994ef6aef14",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4messing.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4messing.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/b44253c5c766c6bf2e4843755e159994ef6aef14",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4messing.py"
+        }
+    },
+    {
+        "name": "my4urlencode.py",
+        "path": "labs/my4urlencode.py",
+        "sha": "f793eb9a4114308d4c30dab26f48aad8e953176b",
+        "size": 336,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4urlencode.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4urlencode.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f793eb9a4114308d4c30dab26f48aad8e953176b",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4urlencode.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4urlencode.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f793eb9a4114308d4c30dab26f48aad8e953176b",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4urlencode.py"
+        }
+    },
+    {
+        "name": "my4valoffdao.py",
+        "path": "labs/my4valoffdao.py",
+        "sha": "a2d05514865ad581f98fa2c6a8c35faa32636abc",
+        "size": 3431,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4valoffdao.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4valoffdao.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/a2d05514865ad581f98fa2c6a8c35faa32636abc",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my4valoffdao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my4valoffdao.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/a2d05514865ad581f98fa2c6a8c35faa32636abc",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my4valoffdao.py"
+        }
+    },
+    {
+        "name": "my5a sample config for you to see format.py",
+        "path": "labs/my5a sample config for you to see format.py",
+        "sha": "041a3a74418e10e718357694b3e1636d331ce99b",
+        "size": 280,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5a%20sample%20config%20for%20you%20to%20see%20format.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5a%20sample%20config%20for%20you%20to%20see%20format.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/041a3a74418e10e718357694b3e1636d331ce99b",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my5a%20sample%20config%20for%20you%20to%20see%20format.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5a%20sample%20config%20for%20you%20to%20see%20format.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/041a3a74418e10e718357694b3e1636d331ce99b",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5a%20sample%20config%20for%20you%20to%20see%20format.py"
+        }
+    },
+    {
+        "name": "my5config_old.py",
+        "path": "labs/my5config_old.py",
+        "sha": "6ff232c08c28e23e9cebf0f3d1ce2451560501ba",
+        "size": 171,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5config_old.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5config_old.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/6ff232c08c28e23e9cebf0f3d1ce2451560501ba",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my5config_old.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5config_old.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/6ff232c08c28e23e9cebf0f3d1ce2451560501ba",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5config_old.py"
+        }
+    },
+    {
+        "name": "my5getprivaterepository.py",
+        "path": "labs/my5getprivaterepository.py",
+        "sha": "aec56473419b4a008b3b02b82a3404c1e01ccb2e",
+        "size": 885,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5getprivaterepository.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5getprivaterepository.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/aec56473419b4a008b3b02b82a3404c1e01ccb2e",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my5getprivaterepository.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5getprivaterepository.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/aec56473419b4a008b3b02b82a3404c1e01ccb2e",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5getprivaterepository.py"
+        }
+    },
+    {
+        "name": "my5getrepoinformation.py",
+        "path": "labs/my5getrepoinformation.py",
+        "sha": "c8e4c1df0797c9fae8a2718c44c20594837a20ec",
+        "size": 521,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5getrepoinformation.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5getrepoinformation.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c8e4c1df0797c9fae8a2718c44c20594837a20ec",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my5getrepoinformation.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5getrepoinformation.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c8e4c1df0797c9fae8a2718c44c20594837a20ec",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5getrepoinformation.py"
+        }
+    },
+    {
+        "name": "my5htmltopdfdemo.py",
+        "path": "labs/my5htmltopdfdemo.py",
+        "sha": "218e079164e469796c66635367024af6592adac5",
+        "size": 1884,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5htmltopdfdemo.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5htmltopdfdemo.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/218e079164e469796c66635367024af6592adac5",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my5htmltopdfdemo.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5htmltopdfdemo.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/218e079164e469796c66635367024af6592adac5",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5htmltopdfdemo.py"
+        }
+    },
+    {
+        "name": "my5repos-private.json",
+        "path": "labs/my5repos-private.json",
+        "sha": "b7eece124e3b8ea803f1534380093e218d8cb7c3",
+        "size": 7006,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5repos-private.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5repos-private.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/b7eece124e3b8ea803f1534380093e218d8cb7c3",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my5repos-private.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5repos-private.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/b7eece124e3b8ea803f1534380093e218d8cb7c3",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5repos-private.json"
+        }
+    },
+    {
+        "name": "my5repos-public.json",
+        "path": "labs/my5repos-public.json",
+        "sha": "1efdf5af36f04da97e7f131331d50ea03ff7b0aa",
+        "size": 216134,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5repos-public.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5repos-public.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/1efdf5af36f04da97e7f131331d50ea03ff7b0aa",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my5repos-public.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5repos-public.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/1efdf5af36f04da97e7f131331d50ea03ff7b0aa",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5repos-public.json"
+        }
+    },
+    {
+        "name": "my5wsaa-code.json",
+        "path": "labs/my5wsaa-code.json",
+        "sha": "91404f763ff26003d95d6ab7c399fa811a906beb",
+        "size": 4248,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5wsaa-code.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5wsaa-code.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/91404f763ff26003d95d6ab7c399fa811a906beb",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/my5wsaa-code.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/my5wsaa-code.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/91404f763ff26003d95d6ab7c399fa811a906beb",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/my5wsaa-code.json"
+        }
+    },
+    {
+        "name": "mybitcoindump.json",
+        "path": "labs/mybitcoindump.json",
+        "sha": "aa7273f18ef54a6fd345c5658bb4e84748050ec3",
+        "size": 720,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/mybitcoindump.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/mybitcoindump.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/aa7273f18ef54a6fd345c5658bb4e84748050ec3",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/mybitcoindump.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/mybitcoindump.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/aa7273f18ef54a6fd345c5658bb4e84748050ec3",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/mybitcoindump.json"
+        }
+    },
+    {
+        "name": "mylab05.02.02-getprivaterepository.py",
+        "path": "labs/mylab05.02.02-getprivaterepository.py",
+        "sha": "3706c71644d405cb804df6ad1d2dfd94c2c173f3",
+        "size": 704,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/mylab05.02.02-getprivaterepository.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/mylab05.02.02-getprivaterepository.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/3706c71644d405cb804df6ad1d2dfd94c2c173f3",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/mylab05.02.02-getprivaterepository.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/mylab05.02.02-getprivaterepository.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/3706c71644d405cb804df6ad1d2dfd94c2c173f3",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/mylab05.02.02-getprivaterepository.py"
+        }
+    },
+    {
+        "name": "mylab05.03.01-githubbymodule.py",
+        "path": "labs/mylab05.03.01-githubbymodule.py",
+        "sha": "9d9fe7ee51fb992c058106dfae950bd9467dfeec",
+        "size": 853,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/mylab05.03.01-githubbymodule.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/mylab05.03.01-githubbymodule.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/9d9fe7ee51fb992c058106dfae950bd9467dfeec",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/mylab05.03.01-githubbymodule.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/mylab05.03.01-githubbymodule.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/9d9fe7ee51fb992c058106dfae950bd9467dfeec",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/mylab05.03.01-githubbymodule.py"
+        }
+    },
+    {
+        "name": "myvaloff.json",
+        "path": "labs/myvaloff.json",
+        "sha": "4f32007194ed44f516d4447481ab2385261820a8",
+        "size": 602033,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/myvaloff.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/myvaloff.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/4f32007194ed44f516d4447481ab2385261820a8",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/myvaloff.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/myvaloff.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/4f32007194ed44f516d4447481ab2385261820a8",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/myvaloff.json"
+        }
+    },
+    {
+        "name": "repos-private.json",
+        "path": "labs/repos-private.json",
+        "sha": "b7eece124e3b8ea803f1534380093e218d8cb7c3",
+        "size": 7006,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/repos-private.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/repos-private.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/b7eece124e3b8ea803f1534380093e218d8cb7c3",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/repos-private.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/repos-private.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/b7eece124e3b8ea803f1534380093e218d8cb7c3",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/repos-private.json"
+        }
+    },
+    {
+        "name": "repos-public.json",
+        "path": "labs/repos-public.json",
+        "sha": "1efdf5af36f04da97e7f131331d50ea03ff7b0aa",
+        "size": 216134,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/repos-public.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/repos-public.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/1efdf5af36f04da97e7f131331d50ea03ff7b0aa",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/repos-public.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/repos-public.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/1efdf5af36f04da97e7f131331d50ea03ff7b0aa",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/repos-public.json"
+        }
+    },
+    {
+        "name": "result.json",
+        "path": "labs/result.json",
+        "sha": "525591b5951a311bdde3be2a339e57d4a8840811",
+        "size": 13280,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/result.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/result.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/525591b5951a311bdde3be2a339e57d4a8840811",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/result.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/result.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/525591b5951a311bdde3be2a339e57d4a8840811",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/result.json"
+        }
+    },
+    {
+        "name": "server.py",
+        "path": "labs/server.py",
+        "sha": "755a1bdde954e8b3b52484e35d16290da6afe5f5",
+        "size": 1869,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/server.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/server.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/755a1bdde954e8b3b52484e35d16290da6afe5f5",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/server.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/server.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/755a1bdde954e8b3b52484e35d16290da6afe5f5",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/server.py"
+        }
+    },
+    {
+        "name": "testBookDao.py",
+        "path": "labs/testBookDao.py",
+        "sha": "c05ccc934ac572c94ee7c68ab29e539af48dc53c",
+        "size": 645,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/testBookDao.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/testBookDao.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c05ccc934ac572c94ee7c68ab29e539af48dc53c",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/testBookDao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/testBookDao.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c05ccc934ac572c94ee7c68ab29e539af48dc53c",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/testBookDao.py"
+        }
+    },
+    {
+        "name": "trainxml.xml",
+        "path": "labs/trainxml.xml",
+        "sha": "735712d7a3a94f607345460fc256817204219824",
+        "size": 32219,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/trainxml.xml?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/trainxml.xml",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/735712d7a3a94f607345460fc256817204219824",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/trainxml.xml",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/trainxml.xml?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/735712d7a3a94f607345460fc256817204219824",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/trainxml.xml"
+        }
+    },
+    {
+        "name": "valoff.json",
+        "path": "labs/valoff.json",
+        "sha": "f874e0c3f8c373adeb65198318585071a8ae9a5e",
+        "size": 618626,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/valoff.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/valoff.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f874e0c3f8c373adeb65198318585071a8ae9a5e",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/valoff.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/valoff.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f874e0c3f8c373adeb65198318585071a8ae9a5e",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/valoff.json"
+        }
+    },
+    {
+        "name": "valoffdao.py",
+        "path": "labs/valoffdao.py",
+        "sha": "524d64dc8267911a5f3de9d9a26c828fa3102d25",
+        "size": 698,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/valoffdao.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/valoffdao.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/524d64dc8267911a5f3de9d9a26c828fa3102d25",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/valoffdao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/valoffdao.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/524d64dc8267911a5f3de9d9a26c828fa3102d25",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/valoffdao.py"
+        }
+    },
+    {
+        "name": "week02_train.csv",
+        "path": "labs/week02_train.csv",
+        "sha": "ee0579a9a1d0e6aac768ce60ad2beebc709529f8",
+        "size": 11490,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/week02_train.csv?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/week02_train.csv",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/ee0579a9a1d0e6aac768ce60ad2beebc709529f8",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/week02_train.csv",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/week02_train.csv?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/ee0579a9a1d0e6aac768ce60ad2beebc709529f8",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/week02_train.csv"
+        }
+    },
+    {
+        "name": "wsaa-code.json",
+        "path": "labs/wsaa-code.json",
+        "sha": "91404f763ff26003d95d6ab7c399fa811a906beb",
+        "size": 4248,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa-code.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa-code.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/91404f763ff26003d95d6ab7c399fa811a906beb",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa-code.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa-code.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/91404f763ff26003d95d6ab7c399fa811a906beb",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa-code.json"
+        }
+    },
+    {
+        "name": "wsaa2.3-traintimes.py",
+        "path": "labs/wsaa2.3-traintimes.py",
+        "sha": "394987b6e7264b77fc8d68ac233099ccc9938e45",
+        "size": 1757,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.3-traintimes.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.3-traintimes.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/394987b6e7264b77fc8d68ac233099ccc9938e45",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa2.3-traintimes.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.3-traintimes.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/394987b6e7264b77fc8d68ac233099ccc9938e45",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.3-traintimes.py"
+        }
+    },
+    {
+        "name": "wsaa2.3-xmlfromfile.py",
+        "path": "labs/wsaa2.3-xmlfromfile.py",
+        "sha": "2165e3309b0907eb6ca65a137f08d471a202a1d5",
+        "size": 457,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.3-xmlfromfile.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.3-xmlfromfile.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/2165e3309b0907eb6ca65a137f08d471a202a1d5",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa2.3-xmlfromfile.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.3-xmlfromfile.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/2165e3309b0907eb6ca65a137f08d471a202a1d5",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.3-xmlfromfile.py"
+        }
+    },
+    {
+        "name": "wsaa2.4-json.json",
+        "path": "labs/wsaa2.4-json.json",
+        "sha": "c626a11fc5d4ad95dc7374e0997872c362bc8338",
+        "size": 293,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.4-json.json?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.4-json.json",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c626a11fc5d4ad95dc7374e0997872c362bc8338",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa2.4-json.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.4-json.json?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/c626a11fc5d4ad95dc7374e0997872c362bc8338",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.4-json.json"
+        }
+    },
+    {
+        "name": "wsaa2.4-readfromcloud copy.py",
+        "path": "labs/wsaa2.4-readfromcloud copy.py",
+        "sha": "1ee00e73cbed8a0fc0a5be86337e41930b984388",
+        "size": 310,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.4-readfromcloud%20copy.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.4-readfromcloud%20copy.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/1ee00e73cbed8a0fc0a5be86337e41930b984388",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa2.4-readfromcloud%20copy.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.4-readfromcloud%20copy.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/1ee00e73cbed8a0fc0a5be86337e41930b984388",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.4-readfromcloud%20copy.py"
+        }
+    },
+    {
+        "name": "wsaa2.4-readfromcloud.py",
+        "path": "labs/wsaa2.4-readfromcloud.py",
+        "sha": "654d920b60c5668cbb5496cb7bcd6e44da81d6dd",
+        "size": 302,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.4-readfromcloud.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.4-readfromcloud.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/654d920b60c5668cbb5496cb7bcd6e44da81d6dd",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa2.4-readfromcloud.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.4-readfromcloud.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/654d920b60c5668cbb5496cb7bcd6e44da81d6dd",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.4-readfromcloud.py"
+        }
+    },
+    {
+        "name": "wsaa2.4-readjson.py",
+        "path": "labs/wsaa2.4-readjson.py",
+        "sha": "4397af90ef6be3ca9bbe16d31b785345bf9e9dfe",
+        "size": 202,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.4-readjson.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.4-readjson.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/4397af90ef6be3ca9bbe16d31b785345bf9e9dfe",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa2.4-readjson.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa2.4-readjson.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/4397af90ef6be3ca9bbe16d31b785345bf9e9dfe",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa2.4-readjson.py"
+        }
+    },
+    {
+        "name": "wsaa3.1-readfromcloud.py",
+        "path": "labs/wsaa3.1-readfromcloud.py",
+        "sha": "fd011953857f2dd8958c19825ba0c0d3213dfe7e",
+        "size": 280,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa3.1-readfromcloud.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa3.1-readfromcloud.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/fd011953857f2dd8958c19825ba0c0d3213dfe7e",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa3.1-readfromcloud.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa3.1-readfromcloud.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/fd011953857f2dd8958c19825ba0c0d3213dfe7e",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa3.1-readfromcloud.py"
+        }
+    },
+    {
+        "name": "wsaa3.2-messingwithurls.py",
+        "path": "labs/wsaa3.2-messingwithurls.py",
+        "sha": "97dae70e2feddd117e66f259d462b919ffa947d7",
+        "size": 97,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa3.2-messingwithurls.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa3.2-messingwithurls.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/97dae70e2feddd117e66f259d462b919ffa947d7",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa3.2-messingwithurls.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa3.2-messingwithurls.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/97dae70e2feddd117e66f259d462b919ffa947d7",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa3.2-messingwithurls.py"
+        }
+    },
+    {
+        "name": "wsaa4.1.1-urlencode.py",
+        "path": "labs/wsaa4.1.1-urlencode.py",
+        "sha": "f793eb9a4114308d4c30dab26f48aad8e953176b",
+        "size": 336,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa4.1.1-urlencode.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa4.1.1-urlencode.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f793eb9a4114308d4c30dab26f48aad8e953176b",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa4.1.1-urlencode.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa4.1.1-urlencode.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/f793eb9a4114308d4c30dab26f48aad8e953176b",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa4.1.1-urlencode.py"
+        }
+    },
+    {
+        "name": "wsaa4.1.2-analysebooks.py",
+        "path": "labs/wsaa4.1.2-analysebooks.py",
+        "sha": "cfcde6fa069db7a6a72b3582d67cd20d8d9b8574",
+        "size": 195,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa4.1.2-analysebooks.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa4.1.2-analysebooks.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/cfcde6fa069db7a6a72b3582d67cd20d8d9b8574",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa4.1.2-analysebooks.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa4.1.2-analysebooks.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/cfcde6fa069db7a6a72b3582d67cd20d8d9b8574",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa4.1.2-analysebooks.py"
+        }
+    },
+    {
+        "name": "wsaa4.2.1-analysehair.py",
+        "path": "labs/wsaa4.2.1-analysehair.py",
+        "sha": "700ff0252c575194039ff9d91686bcd80af906ca",
+        "size": 482,
+        "url": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa4.2.1-analysehair.py?ref=main",
+        "html_url": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa4.2.1-analysehair.py",
+        "git_url": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/700ff0252c575194039ff9d91686bcd80af906ca",
+        "download_url": "https://raw.githubusercontent.com/nurbujang/WSAA-coursework/main/labs/wsaa4.2.1-analysehair.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/nurbujang/WSAA-coursework/contents/labs/wsaa4.2.1-analysehair.py?ref=main",
+            "git": "https://api.github.com/repos/nurbujang/WSAA-coursework/git/blobs/700ff0252c575194039ff9d91686bcd80af906ca",
+            "html": "https://github.com/nurbujang/WSAA-coursework/blob/main/labs/wsaa4.2.1-analysehair.py"
+        }
+    }
+]

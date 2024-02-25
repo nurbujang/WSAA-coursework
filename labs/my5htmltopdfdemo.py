@@ -29,7 +29,7 @@
 
 import requests
 import urllib.parse
-from config import apikeys as cfg
+from my5config import apikeys as cfg
 
 targetUrl = "https://en.wikipedia.org"
 #targetUrl = "https://www.atu.ie/"
