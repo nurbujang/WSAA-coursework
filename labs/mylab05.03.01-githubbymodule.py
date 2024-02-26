@@ -23,7 +23,7 @@ print (urlOfFile)
 response = requests.get(urlOfFile)
 contentOfFile = response.text
 print (contentOfFile)
-newContents = contentOfFile + " more stuff 2 \n"
+newContents = contentOfFile + " more stuff 3 \n"
 print (newContents)
 
 # update_file(path, message, content, sha, branch=NotSet, committer=NotSet, author=NotSet)
