@@ -4,46 +4,37 @@ contains assignments and labs for WEB SERVICES AND APPLICATIONS Spring 2024
 ## Repository contents:
 
 * .gitignore
+
 * License
+
 * assignments
+
     * currentweather.py
+
+    * assignment03-cso.py
+
+    * assignment04-github.py
+
+* project - I am doing the DATA REPRESENTATION 2023 project (with permission)
+
+    * Project Description
+
+    * flaskproject.py
+    
+    * DAO
+    
+    * html pages with JavaScript
+
+    *
+
+
 * labs
+
 * README.md
-* WSAA Project Description
 
-## ASSIGNMENT LIST OF CONTENTS
 
-1. Assignment 1: currentweather.py
-    - Description
-    - Methods and Implementation
-    - Conclusion
-    - References
 
-2. Assignment 2: currentweather.py
-    - Description
-    - Methods and Implementation
-    - Conclusion
-    - References
-
-3. Assignment 3: currentweather.py
-    - Description
-    - Methods and Implementation
-    - Conclusion
-    - References
-
-4. Assignment 4: currentweather.py
-    - Description
-    - Methods and Implementation
-    - Conclusion
-    - References
-
-5. Assignment 5: currentweather.py
-    - Description
-    - Methods and Implementation
-    - Conclusion
-    - References
-      
-## PROJECT TABLE OF CONTENTS
+## PROJECT TABLE OF CONTENTS 
 
 * PROJECT TITLE: 
 
@@ -124,9 +115,9 @@ Python 3.11.5
 
 ## Installation Instructions
 
-* conda install 
+* pip install PyGithub
 
-* pip install 
+* pip install Flask
 
 ## Running The Code
 
