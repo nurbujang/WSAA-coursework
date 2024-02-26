@@ -15,19 +15,19 @@ g = Github(apikey)
 #     #print(dir(repo))
 # # make sure this repository exists, and that the path is correct
 repo = g.get_repo("nurbujang/private")
-
 #print(repo.clone_url)
+
 fileInfo = repo.get_contents("test.txt")
 urlOfFile = fileInfo.download_url
-print (urlOfFile)
+#print (urlOfFile)
 response = requests.get(urlOfFile)
 contentOfFile = response.text
-print (contentOfFile)
-newContents = contentOfFile + " more stuff 3 \n"
-print (newContents)
+#print (contentOfFile)
+newContents = contentOfFile + " more stuff 5 \n"
+#print (newContents)
 
 # update_file(path, message, content, sha, branch=NotSet, committer=NotSet, author=NotSet)
-gitHubResponse=repo.update_file(fileInfo.path,"updated by prog",newContents,fileInfo.sha)
+gitHubResponse=repo.update_file(fileInfo.path,"updated by prog 5",newContents,fileInfo.sha)
 print (gitHubResponse)
 
 
