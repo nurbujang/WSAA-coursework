@@ -37,19 +37,22 @@ urlEnd = "/JSON-stat/2.0/en"
 
 def getAll(dataset): # Beatty (2024)
     url= urlBeginning + dataset + urlEnd
-    response = requests.get(url)
-    return response.json()
+    response = requests.get(url) # get() function retrieves the resource specified by the URL and returns a response object containing the response from the server (GeeksforGeeks, 2020b)
+    return response.json() # json() method of the response object parses the response content as JSON and returns it as a Python dictionary or list (GeeksforGeeks, 2020a)
 
-if __name__ == "__main__": 
+if __name__ == "__main__": # execute code when file runs as a script (Breuss, n.d.)
     with open("cso.json", "wt") as fp: # with open, "w" is write mode (note.nkmk.me, 2023)
         print(json.dumps(getAll("FIQ02")), file=fp) # pass in the dataset FIQ02 here
 
 '''
 REFERENCES
 
-Beatty, A. (2024). andrewbeattycourseware/wsaa-course-material. [online] GitHub. Available at: https://github.com/andrewbeattycourseware/wsaa-course-material [Accessed 17 Feb. 2024].
+Beatty, A. (2024). andrewbeattycourseware/wsaa-course-material. [online] GitHub. Available at: https://github.com/andrewbeattycourseware/wsaa-course-material [Accessed 19 Feb. 2024].
+Breuss, M. (n.d.). What Does if __name__ == ‘__main__’ Do in Python? – Real Python. [online] realpython.com. Available at: https://realpython.com/if-name-main-python/ [Accessed 19 Feb. 2024].
 Data.cso.ie. (2020). FIQ02 Exchequer Account (Historical Series). [online] Available at: https://data.cso.ie/ [Accessed 19 Feb. 2024].
-note.nkmk.me. (2023). Read, write, and create files in Python (with and open()) | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-file-io-open-with/#open-a-file-for-writing-modew [Accessed 17 Feb. 2024].
+GeeksforGeeks. (2020a). response.json() - Python requests. [online] Available at: https://www.geeksforgeeks.org/response-json-python-requests/ [Accessed 19 Feb. 2024].
+GeeksforGeeks. (2020b). response.url - Python requests. [online] Available at: https://www.geeksforgeeks.org/response-url-python-requests/ [Accessed 19 Feb. 2024].
+note.nkmk.me. (2023). Read, write, and create files in Python (with and open()) | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-file-io-open-with/#open-a-file-for-writing-modew [Accessed 19 Feb. 2024].
 _______________________________________________________________________________________________
 End
 '''

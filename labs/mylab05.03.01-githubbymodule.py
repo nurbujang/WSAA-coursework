@@ -23,6 +23,7 @@ urlOfFile = fileInfo.download_url
 response = requests.get(urlOfFile)
 contentOfFile = response.text
 #print (contentOfFile)
+
 newContents = contentOfFile + " more stuff 5 \n"
 #print (newContents)
 
