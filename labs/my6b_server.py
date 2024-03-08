@@ -30,7 +30,7 @@ app = Flask(__name__, static_url_path='', static_folder='my6staticpages')
 
 # if __name__ == "__main__":
 #     app.run(debug=True)
-#===============================================================
+#===============================================================================================
 # if dealing with users:
 
 # app = Flask(__name__, static_url_path='', static_folder='my6staticpages')
@@ -55,7 +55,7 @@ app = Flask(__name__, static_url_path='', static_folder='my6staticpages')
 
 # go to http://127.0.0.1:5000/users
 # go to http://127.0.0.1:5000/users/andrew
-#=============================================================
+#====================================================================================================
 app = Flask(__name__, static_url_path='', static_folder='my6staticpages')
 
 # mapping
