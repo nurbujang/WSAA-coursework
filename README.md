@@ -11,9 +11,17 @@ contains assignments and labs for WEB SERVICES AND APPLICATIONS Spring 2024
 
     * currentweather.py
 
+        * currentwinddir10m.json
+
+        * currenttemperature2m.json
+
     * assignment03-cso.py
 
+        * cso.json
+
     * assignment04-github.py
+
+
 
 * labs
 

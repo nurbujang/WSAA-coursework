@@ -9,11 +9,64 @@
 
 from flask import Flask, request, jsonify
 
+# check if it runs nicely
+# app = Flask(__name__)
+
+# @app.route('/')
+# def index():
+#     return "hello mak"
+
+# if __name__ == "__main__":
+#     app.run(debug = True)
+
+#===============================================
+
+# take in data as arguments
+# app = Flask(__name__)
+
+# @app.route('/')
+# def index():
+#     return "hello mak"
+
+# @app.route("/inquery")
+# def inquery():
+#     name = request.args["name"]
+#     return name
+
+# if __name__ == "__main__":
+#     app.run(debug = True)
+
+# http://127.0.0.1:5000/inquery?name=nur
+
+#==================================================
+    
+#add 2nd argument
+# app = Flask(__name__)
+
+# @app.route('/')
+# def index():
+#     return "hello mak"
+
+# @app.route("/inquery")
+# def inquery():
+#     name = request.args["name"]
+#     return request.args
+
+# if __name__ == "__main__":
+#     app.run(debug = True)
+
+# go to raw data http://127.0.0.1:5000/inquery?name=nur&age=18
+    
+#=====================================================================
+    
+# in the body of msg, dont go to http://127.0.0.1:5000/inbody
+# method is not allowed#so use postman
+    
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "hello mum"
+    return "hello mak"
 
 @app.route("/inquery")
 def inquery():
@@ -23,22 +76,50 @@ def inquery():
 @app.route("/inbody", methods=["POST"])
 def inbody():
     name = request.json["name"]
-    age = request.json["age"]
     #print (request.json)
-    return f"you are {name} and aged {age} {type(age)}"
+    return f"you are {name}"
 
-@app.route('/user')
-def getuser():
-    user={
-        'name': "andrew",
-        'age' : 21
-    }
-    return jsonify(user)
 
 if __name__ == "__main__":
     app.run(debug = True)
 
+#========================================================
+# in the body of msg with multiple args
+    
+# app = Flask(__name__)
 
+# @app.route('/')
+# def index():
+#     return "hello mak"
+
+# @app.route("/inquery")
+# def inquery():
+#     name = request.args["name"]
+#     return request.args
+
+# @app.route("/inbody", methods=["POST"])
+# def inbody():
+#     name = request.json["name"]
+#     age = request.json["age"]
+#     #print (request.json)
+#     return f"you are {name} and aged {age} {type(age)}"
+
+
+# if __name__ == "__main__":
+#     app.run(debug = True)
+
+# 
+    
+#============================================
+# 
+
+# @app.route('/user')
+# def getuser():
+#     user={
+#         'name': "andrew",
+#         'age' : 21
+#     }
+#     return jsonify(user)
 
 # from flask import Flask, request, jsonify
 
