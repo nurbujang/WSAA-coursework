@@ -59,29 +59,30 @@ from flask import Flask, request, jsonify
     
 #=====================================================================
     
-# in the body of msg, dont go to http://127.0.0.1:5000/inbody
-# method is not allowed#so use postman
+# in the body of msg, dont go to http://127.0.0.1:5000/inbody website
+# method is not allowed, so use postman: post http://127.0.0.1:5000/inbody
+# will get error, so need to send json > body > raw > json (if u look at header, content type is json)
     
-app = Flask(__name__)
+# app = Flask(__name__)
 
-@app.route('/')
-def index():
-    return "hello mak"
+# @app.route('/')
+# def index():
+#     return "hello mak"
 
-@app.route("/inquery")
-def inquery():
-    name = request.args["name"]
-    return request.args
+# @app.route("/inquery")
+# def inquery():
+#     name = request.args["name"]
+#     return request.args
 
-@app.route("/inbody", methods=["POST"])
-def inbody():
-    name = request.json["name"]
-    #print (request.json)
-    return f"you are {name}"
+# @app.route("/inbody", methods=["POST"]) # could be GET also
+# def inbody():
+#     name = request.json["name"]
+#     #print (request.json) # print is only for debugging
+#     return f"you are {name}"
 
 
-if __name__ == "__main__":
-    app.run(debug = True)
+# if __name__ == "__main__":
+#     app.run(debug = True)
 
 #========================================================
 # in the body of msg with multiple args
@@ -102,24 +103,48 @@ if __name__ == "__main__":
 #     name = request.json["name"]
 #     age = request.json["age"]
 #     #print (request.json)
-#     return f"you are {name} and aged {age} {type(age)}"
+#     return f"you are {name} and aged {age} {type(age)}" # if on postman, "age"=21 (int), if "age"="21" (str)
 
 
 # if __name__ == "__main__":
 #     app.run(debug = True)
 
-# 
-    
+ 
 #============================================
-# 
+# returning dict object as json
 
-# @app.route('/user')
-# def getuser():
-#     user={
-#         'name': "andrew",
-#         'age' : 21
-#     }
-#     return jsonify(user)
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return "hello mak"
+
+@app.route("/inquery")
+def inquery():
+    name = request.args["name"]
+    return request.args
+
+@app.route("/inbody", methods=["POST"])
+def inbody():
+    name = request.json["name"]
+    age = request.json["age"]
+    #print (request.json)
+    return f"you are {name} and aged {age} {type(age)}" # if on postman, "age"=21 (int), if "age"="21" (str)
+
+@app.route('/user')
+def getuser():
+    user={
+        'name': "nur",
+        'age' : 17.5
+    }
+    return jsonify(user)
+
+if __name__ == "__main__":
+    app.run(debug = True)
+
+# http://127.0.0.1:5000/user or postman 
+
+
 
 # from flask import Flask, request, jsonify
 
