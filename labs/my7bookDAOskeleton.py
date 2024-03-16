@@ -1,6 +1,8 @@
 # book dao skeleton
 # this is a demonstration of the type of function a data layer might have
+#this will interact with the db
 # Author: Andrew Beatty
+#how to use? go to my7rest-server.py
 
 class BookDAO:
     # get all          
@@ -35,3 +37,4 @@ if __name__ == "__main__":
     print ("test delete")
     print (f"\t{bookDAO.delete(1)}")
    
+
