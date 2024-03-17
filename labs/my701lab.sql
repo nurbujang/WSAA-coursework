@@ -1,0 +1,21 @@
+show databases;
+CREATE DATABASE wsaalab;
+show databases;
+use wsaalab;
+show tables;
+create table book 
+(id int NOT NULL AUTO_INCREMENT, title varchar(250), author varchar(250), price int(50), primary key(id));
+describe book;
+select * from book;
+insert into book (name) values ("change this to title");
+select * from book;
+insert into book (author, price) values ("james brown", 22);
+select * from book;
+insert into book values ("born free","joe lee", 100);
+select * from book;
+insert into book values ("giraffe","john hannah", 1000);
+select * from book;
+update book set name="maryanne jones" where id=1;
+select * from book;
+delete from book where id=1;
+select * from book;
