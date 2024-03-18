@@ -11,12 +11,18 @@ db = mysql.connector.connect(
 
 cursor = db.cursor()
 
-cursor.execute("create DATABASE wsaa3")
+cursor.execute("create DATABASE wsaa4")
 
 db.close()
 cursor.close()
 
-###########################
+#mysql: show databases;
+# show tables; (empty set)
+
+# now go to my7createTable.py
+
+############################################################################
+
 #this had error
 
 # import mysql.connector
