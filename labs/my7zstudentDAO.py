@@ -5,7 +5,6 @@ class StudentDAO:
     user = ""
     password =""
     database =""
-
     connection = ""
     cursor =""
 

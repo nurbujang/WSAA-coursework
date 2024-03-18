@@ -15,11 +15,11 @@ print ("test create and find by id")
 print (result)
 
 # # #update play around, toggle/untoggle
-# newstudentvalues= {"name":"fred", "age":18}
-# studentDAO.update(studentid,newstudentvalues)
-# result = studentDAO.findByID(studentid);
-# print("test update")
-# print (result)
+newstudentvalues= {"name":"fred", "age":18}
+studentDAO.update(studentid,newstudentvalues)
+result = studentDAO.findByID(studentid);
+print("test update")
+print (result)
 
 # get all 
 print("test get all")
