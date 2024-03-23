@@ -1,3 +1,5 @@
+# after this is the bookviewer.html, where the web application happens
+
 from flask import Flask, jsonify, request, abort
 from bookDAO import bookDAO
 
