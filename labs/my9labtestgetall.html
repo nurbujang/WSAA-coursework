@@ -1,0 +1,148 @@
+<html>
+    <head>
+            <title>
+                test get all
+            </title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    </head>
+    <body>
+    <script>
+        function getAll(){
+            $.ajax({
+                "url": " http://andrewbeatty1.pythonanywhere.com/books",
+                "method":"GET",
+                "data":"",
+                "dataType": "JSON",
+                "success":function(result){
+                    console.log(result);
+                },
+                "error":function(xhr,status,error){
+                    console.log("error: "+status+" msg:"+error);
+                }
+            });
+
+        }
+        getAll()
+
+
+        function getAll(callback){
+            $.ajax({
+                "url": "http://andrewbeatty1.pythonanywhere.com/books",
+                "method":"GET",
+                "data":"",
+                "dataType": "JSON",
+                    "success":function(result){
+                    //console.log(result);
+                    callback(result)
+                },
+            "error":function(xhr,status,error){
+                console.log("error: "+status+" msg:"+error);
+                }
+            });
+        }
+
+        function processGetAll(result){
+            console.log("in process")
+            console.log(result)
+        }
+        getAll(processGetAll)
+
+
+
+        function createBook(book, callback){
+            //console.log(JSON.stringify(book));
+            $.ajax({
+                "url": "http://andrewbeatty1.pythonanywhere.com/books",
+                "method":"POST",
+                "data":JSON.stringify(book),
+                "dataType": "JSON",
+                contentType: "application/json; charset=utf-8",
+                "success":function(result){
+                    console.log(result);
+                    //callback(result)
+                },
+                "error":function(xhr,status,error){
+                    console.log("error: "+status+" msg:"+error);
+                }
+            });
+
+
+        function processCreateresponse(result){
+            console.log(result)
+        }
+
+        book = {"title":"javascript","author":"andrew","price":12}
+        createBook(book,processCreateresponse)
+
+
+        function updateBook(book, callback){
+            //console.log(JSON.stringify(book));
+            $.ajax({
+                "url": "http://andrewbeatty1.pythonanywhere.com/books/"+encodeURI(book.id),
+                "method":"PUT",
+                "data":JSON.stringify(book),
+                "dataType": "JSON",
+                contentType: "application/json; charset=utf-8",
+                "success":function(result){
+                    console.log(result);
+                    //callback(result)
+                },
+                "error":function(xhr,status,error){
+                    console.log("error: "+status+" msg:"+error);
+                }
+            });
+        }
+
+
+        function processUpdateResponse(result){
+            console.log(result)
+            }
+        book = {id:155,"price":999}
+        updateBook(book,processUpdateResponse)
+
+
+        function deleteBook(id, callback){
+            $.ajax({
+                "url": "http://andrewbeatty1.pythonanywhere.com/books/"+id,
+                "method":"DELETE",
+                "data":"",
+                "dataType": "JSON",
+                contentType: "application/json; charset=utf-8",
+                "success":function(result){
+                    console.log(result);
+                    //callback(result)
+            },
+            "error":function(xhr,status,error){
+                console.log("error: "+status+" msg:"+error);
+            }
+        });
+    }
+
+
+        function processDeleteResponse(result){
+            console.log("in pprocess delete")
+            console.log(result)
+            }
+            deleteBook(155,processUpdateResponse)
+
+
+        function processGetAllResponse(result){
+            console.log("in process")
+            //console.log(result)
+            for (book of result){
+                //console.log(book)
+                // You could get away without doing this, I just want to point out
+                // that the attributes in the book that is returned by the server
+                // may not be the same as the attributes used in the page
+                displayBook = {}
+                displayBook.id = book.id
+                displayBook.author = book.author
+                displayBook.title = book.title
+                displayBook.price = book.price
+                // you can now pass it to addBookToTable
+                console.log(displayBook)
+            }
+        }
+
+    </script>
+</html>

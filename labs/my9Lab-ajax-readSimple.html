@@ -14,9 +14,11 @@
                     "data":"",
                     "dataType":"JSON",
                     "success":function(result){
+                        //console.log(rate);
                         var rate = result.bpi.USD.rate;
                         //console.log(rate);
                         document.getElementById("output").innerText= rate;
+                        
                     },
                     "error":function(xhr,status,error){
                         console.log("status:"+status+" message:"+error);
