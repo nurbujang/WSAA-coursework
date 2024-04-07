@@ -1,6 +1,5 @@
 # boook dao 
 # this is a demonstration a data layer that connects to a datbase
-# this will be used by server.py
 # Author: Andrew Beatty
 
 import mysql.connector
