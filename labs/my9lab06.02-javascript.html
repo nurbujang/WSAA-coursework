@@ -35,7 +35,8 @@
             Title <input type="text" name="title"><br/>
             Author <input type="text" name="author"><br/>
             Price <input type="number" name="price"><br/>
-           
+
+           <span><button id="button-showCreate" onclick="showCreate()">Create</button></span>
             <span><button id="button-doCreate" onclick="doCreate()">Create</button></span>
  			<span><button id="button-doUpdate" onclick="doUpdate()">Update</button></span>
              <!-- "display:none" will make it hidden-->
@@ -47,6 +48,9 @@
     <script>
         //console.log("hello world")
         function showCreate(){
+
+            document.getElementById("button-showCreate").style.display = "none"
+
             document.getElementById("createUpdateForm").style.display = "block"
             
             document.getElementById("button-doCreate").style.display = "block"
@@ -59,6 +63,8 @@
             
         }
         function showUpdate(buttonElement){
+
+            
             document.getElementById("createUpdateForm").style.display = "block"
            
             document.getElementById("button-doCreate").style.display = "none"
