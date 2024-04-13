@@ -74,3 +74,7 @@ def delete(id):
 
 if __name__ == '__main__' :
     app.run(debug= True)
+
+
+# if error: ModuleNotFoundError: No module named 'mysql' in venv, pip install mysql-connector
+# pip freeze > requirements.txt
