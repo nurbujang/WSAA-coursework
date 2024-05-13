@@ -2,6 +2,14 @@ CREATE DATABASE wsaaproj;
 SHOW DATABASES;
 
 use wsaaproj;
+
+SHOW TABLES;
+
+select * from aviation WHERE country="IE";
+
+select * from aviation where country !="IE";
+
+
 create table login (username varchar(250) NOT NULL, 
 password varchar(250) NOT NULL, 
 priviledge text);
@@ -13,5 +21,7 @@ year (int),
 main varchar(250),
 other varchar(250),
 small varchar(250)
+
+
 
 
